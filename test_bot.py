@@ -7,6 +7,7 @@ import config
 
 bot = telebot.TeleBot(config.TOKEN)
 
+
 def design_buttons(buttons):
     markup = types.InlineKeyboardMarkup()
     if len(buttons) % 2 == 0:
@@ -26,6 +27,7 @@ def design_buttons(buttons):
             else:
                 markup.row(btn[0])
     return markup
+
 
 @bot.message_handler(commands=["start"])
 def welcome_user(message):
@@ -66,10 +68,15 @@ def get_singers(callback):
     bot.send_message(callback.message.chat.id, f"Певцы жанра:",
                      parse_mode="html", reply_markup=markup)
 
+
+@bot.callback_query_handler(func=lambda cb: cb.data.startswith('singer_'))
+def get_albums(callback):
+    ...
+
+
 @bot.callback_query_handler(func=lambda cb: cb.data.startswith('singer_'))
 def get_songs(callback):
-    genre = callback.data.split('_')[-2]
-    singer = callback.data.split('_')[-1]
+    _, genre, singer = callback.data.split('_')
     songs = os.listdir(f'tracks/{genre}/{singer}/')
     buttons = [
         [types.InlineKeyboardButton(text=song, callback_data=f'song_{genre}_{singer}_{song}')]
@@ -79,7 +86,6 @@ def get_songs(callback):
     bot.send_message(callback.message.chat.id, f"Песни певца:",
                      parse_mode="html", reply_markup=markup)
 
-def
 
 @bot.message_handler()
 def messaging(message):
@@ -101,5 +107,6 @@ def messaging(message):
     elif another_mes:
         answers = ["Опять эти интернет-мошенники со своими приколами...", "Это база"]
         bot.reply_to(message, random.choice(answers))
+
 
 bot.polling(none_stop=True, timeout=60)
