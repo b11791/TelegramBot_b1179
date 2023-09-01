@@ -271,7 +271,7 @@ def get_song(callback):
     bot.delete_message(callback.message.chat.id, callback.message.message_id+1)
     # bot.delete_message(callback.message.chat.id, callback.message.message_id)
 
-########################################################################################################################
+#########################################################################################################################
 @bot.message_handler(content_types=['sticker'])
 def handle_sticker(message):
     bot.reply_to(message, "Стикер крутой, не спорю, но все же выбери нужную тебе категорию🤗.")
