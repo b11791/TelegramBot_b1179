@@ -1,0 +1,33 @@
+{
+  "genres": {
+    "1": {
+      "name": "Pop-Jazz",
+      "singers/groups": {
+        "1": {
+          "photo": "path",
+          "name": "Singer_1",
+          "albums": {
+            "1": {
+              "name": "Album 1",
+              "cover": "path",
+              "songs": {
+                "1": {
+                  "name": "Song_1",
+                  "src": "path"
+                },
+                "2": {
+                  "name": "Song_2",
+                  "src": "path"
+                },
+                "3": {
+                  "name": "Song_3",
+                  "src": "path"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,29 +1,1619 @@
 {
   "genres": {
     "1": {
-      "name": "Pop-Jazz",
+      "name": "\uD83C\uDFB7 Pop-Jazz",
       "singers/groups": {
         "1": {
-          "photo": "path",
-          "name": "Singer_1",
+          "photo": "tracks/Images/Abba_.jpg",
+          "name": "\uD83E\uDD29 ABBA",
+          "songs": {
+            "1": {
+              "name": "Dancing Queen",
+              "src": "tracks/Pop-Jazz/ABBA/DancingQueen.mp3"
+            },
+            "2": {
+              "name": "Gimme-Gimme",
+              "src": "tracks/Pop-Jazz/ABBA/GimmeGimme.mp3"
+            }
+          }
+        },
+        "2": {
+          "photo": "tracks/Images/AmyWinehouse_.jpg",
+          "name": "\uD83C\uDF77 Amy Winehouse",
+          "songs": {
+            "1": {
+              "name": "Back To Black",
+              "src": "tracks/Pop-Jazz/Amy Winehouse/BackToBlack.mp3"
+            },
+            "2": {
+              "name": "You Know I'm No Good",
+              "src": "tracks/Pop-Jazz/Amy Winehouse/YouKnowImNoGood.mp3"
+            }
+          }
+        },
+        "3": {
+          "photo": "tracks/Images/Bjork_.jpg",
+          "name": "\uD83D\uDC41\u200D\uD83D\uDDE8 Bjork",
+          "songs": {
+            "1": {
+              "name": "Army Of Me",
+              "src": "tracks/Pop-Jazz/Bjork/ArmyOfMe.mp3"
+            },
+            "2": {
+              "name": "Play Dead",
+              "src": "tracks/Pop-Jazz/Bjork/PlayDead.mp3"
+            }
+          }
+        },
+        "4": {
+          "photo": "tracks/Images/DuranDuran_.jpg",
+          "name": "\uD83C\uDFBA Duran Duran",
           "albums": {
             "1": {
-              "name": "Album 1",
-              "cover": "path",
+              "name": "⚠ All You Need Is Now",
+              "cover": "tracks/Images/AllYouNeedIsNow_.jpg",
               "songs": {
                 "1": {
-                  "name": "Song_1",
-                  "src": "path"
+                  "name": "All You Need Is Now",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/AllYouNeedIsNow.mp3"
                 },
                 "2": {
-                  "name": "Song_2",
-                  "src": "path"
+                  "name": "Being Followed",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/BeingFollowed.mp3"
                 },
                 "3": {
-                  "name": "Song_3",
-                  "src": "path"
+                  "name": "Blame The Machines",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/BlameTheMachines.mp3"
+                },
+                "4": {
+                  "name": "Girl Panic",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/GirlPanic.mp3"
+                },
+                "5": {
+                  "name": "Leave A Light On",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/LeaveALightOn.mp3"
+                },
+                "6": {
+                  "name": "Mediterranea",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/Mediterranea.mp3"
+                },
+                "7": {
+                  "name": "Networker Nation",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/NetworkerNation.mp3"
+                },
+                "8": {
+                  "name": "Other People's Lives",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/OtherPeoplesLives.mp3"
+                },
+                "9": {
+                  "name": "Runway Runaway",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/RunwayRunaway.mp3"
+                },
+                "10": {
+                  "name": "Safe",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/Safe.mp3"
+                },
+                "12": {
+                  "name": "The Man Who Stole A Leopard",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/TheManWhoStoleALeopard.mp3"
+                },
+                "13": {
+                  "name": "Too Bad You're So Beautiful",
+                  "src": "tracks/Pop-Jazz/Duran Duran/AllYouNeedIsNow/TooBadYoureSoBeautiful.mp3"
                 }
               }
+            },
+            "2": {
+              "name": "\uD83D\uDC68\u200D\uD83D\uDE80 Astronaut",
+              "cover": "tracks/Images/Astronaut_.png",
+              "songs": {
+                "1": {
+                  "name": "Astronaut",
+                  "src": "tracks/Pop-Jazz/Duran Duran/Astronaut/Astronaut.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "❓ Big Thing",
+              "cover": "tracks/Images/BigThing_.png",
+              "songs": {
+                "1": {
+                  "name": "I Don't Want Your Love",
+                  "src": "tracks/Pop-Jazz/Duran Duran/BigThing/IDontWantYourLove.mp3"
+                },
+                "2": {
+                  "name": "Lake Shore Driving",
+                  "src": "tracks/Pop-Jazz/Duran Duran/BigThing/LakeShoreDriving.mp3"
+                },
+                "3": {
+                  "name": "Too Late Marlene",
+                  "src": "tracks/Pop-Jazz/Duran Duran/BigThing/TooLateMarlene.mp3"
+                }
+              }
+            },
+            "4": {
+              "name": "Notorious",
+              "cover": "tracks/Images/Notorios_.jpg",
+              "songs": {
+                "1": {
+                  "name": "\uD83D\uDCE3 Notorious",
+                  "src": "tracks/Pop-Jazz/Duran Duran/Notorious/Notorious.mp3"
+                },
+                "2": {
+                  "name": "Skin Trade",
+                  "src": "tracks/Pop-Jazz/Duran Duran/Notorious/SkinTrade.mp3"
+                }
+              }
+            },
+            "5": {
+              "name": "\uD83D\uDC60 Red Carpet Massacre",
+              "cover": "tracks/Images/RedCarpetMassacre_.png",
+              "songs": {
+                "1": {
+                  "name": "Box Full O'Honey",
+                  "src": "tracks/Pop-Jazz/Duran Duran/RedCarpetMassacre/BoxFullOHoney.mp3"
+                },
+                "2": {
+                  "name": "Falling Down",
+                  "src": "tracks/Pop-Jazz/Duran Duran/RedCarpetMassacre/FallingDown.mp3"
+                },
+                "3": {
+                  "name": "She's Too Much",
+                  "src": "tracks/Pop-Jazz/Duran Duran/RedCarpetMassacre/ShesTooMuch.mp3"
+                },
+                "4": {
+                  "name": "Skin Divers",
+                  "src": "tracks/Pop-Jazz/Duran Duran/RedCarpetMassacre/SkinDivers.mp3"
+                }
+              }
+            },
+            "6": {
+              "name": "\uD83D\uDC2F Seven And The Ragged Tiger",
+              "cover": "tracks/Images/SevenAndTheRaggedTiger_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Union Of The Snake",
+                  "src": "tracks/Pop-Jazz/Duran Duran/SevenAndTheRaggedTiger/UnionOfTheSnake.mp3"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "photo": "tracks/Images/Empire_.jpg",
+          "name": "\uD83D\uDEE1 Kasabian",
+          "songs": {
+            "1": {
+              "name": "Club Foot",
+              "src": "tracks/Pop-Jazz/Kasabian/ClubFoot.mp3"
+            },
+            "2": {
+              "name": "Days Are Forgotten",
+              "src": "tracks/Pop-Jazz/Kasabian/DaysAreForgotten.mp3"
+            },
+            "3": {
+              "name": "Empire",
+              "src": "tracks/Pop-Jazz/Kasabian/Empire.mp3"
+            },
+            "4": {
+              "name": "Fire",
+              "src": "tracks/Pop-Jazz/Kasabian/Fire.mp3"
+            },
+            "5": {
+              "name": "Underdog",
+              "src": "tracks/Pop-Jazz/Kasabian/Underdog.mp3"
+            },
+            "6": {
+              "name": "Vlad The Impaler",
+              "src": "tracks/Pop-Jazz/Kasabian/Vlad the Impaler.mp3"
+            }
+          }
+        },
+        "6": {
+          "photo": "tracks/Images/MortenHarket_.jpg",
+          "name": "\uD83C\uDFDC Morten Harket",
+          "songs": {
+            "1": {
+              "name": "A Name Is A Name",
+              "src": "tracks/Pop-Jazz/Morten Harket/ANameIsAName.mp3"
+            },
+            "2": {
+              "name": "There Are Many Ways To Die",
+              "src": "tracks/Pop-Jazz/Morten Harket/ThereAreManyWaysToDie.mp3"
+            }
+          }
+        },
+        "7": {
+          "photo": "tracks/Images/TheBeeGees_.jpg",
+          "name": "\uD83D\uDD7A The Bee-Gees",
+          "songs": {
+            "1": {
+              "name": "Night Fever",
+              "src": "tracks/Pop-Jazz/The Bee Gees/NightFever.mp3"
+            },
+            "2": {
+              "name": "Staying Alive",
+              "src": "tracks/Pop-Jazz/The Bee Gees/StayingAlive.mp3"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "name": "\uD83D\uDC8A Remixes-Phonk-Rap",
+      "singers/groups": {
+        "1": {
+          "photo": "tracks/Images/AtomicHeart_.jpg",
+          "name": "\uD83C\uDFAE Atomic Heart",
+          "songs": {
+            "1": {
+              "name": "Prekrasnoe Daleko[Remix]",
+              "src": "tracks/Remixes-Phonk-Rap/AtomicHeart/PrekrasnoeDaleko.mp3"
+            },
+            "2": {
+              "name": "Zvyozdnoe Leto[Remix]",
+              "src": "path"
+            }
+          }
+        },
+        "2": {
+          "photo": "tracks/Images/Bladefear_.jpg",
+          "name": "\uD83D\uDE94 Bladefear",
+          "songs": {
+            "1": {
+              "name": "Ur Not Far",
+              "src": "tracks/Remixes-Phonk-Rap/Bladefear/UrNotFar.mp3"
+            }
+          }
+        },
+        "3": {
+          "photo": "tracks/Images/Dolphin_.jpg",
+          "name": "\uD83C\uDFF4 Dolphin",
+          "songs": {
+            "1": {
+              "name": "387",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/387.mp3"
+            },
+            "2": {
+              "name": "520",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/520.mp3"
+            },
+            "3": {
+              "name": "612",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/612.mp3"
+            },
+            "4": {
+              "name": "660",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/660.mp3"
+            },
+            "5": {
+              "name": "713",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/713.mp3"
+            },
+            "6": {
+              "name": "744",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/744.mp3"
+            },
+           "7": {
+              "name": "925",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/925.mp3"
+            },
+            "8": {
+              "name": "I Need Enemy",
+              "src": "tracks/Remixes-Phonk-Rap/Dolphin/INeedEnemy.mp3"
+            }
+          }
+        },
+        "4": {
+          "photo": "tracks/Images/Eminem_.jpg",
+          "name": "\uD83D\uDC89 Eminem",
+          "albums": {
+            "1": {
+              "name": "\uD83D\uDCDE Curtain Call",
+              "cover": "tracks/Images/CurtainCall_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Lose Yourself",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/CurtainCall/LoseYourself.mp3"
+                },
+                "2": {
+                  "name": "My Name Is",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/CurtainCall/MyNameIs.mp3"
+                },
+                "3": {
+                  "name": "Stan",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/CurtainCall/Stan.mp3"
+                }
+              }
+            },
+            "2": {
+              "name": "\uD83E\uDD1E Encore",
+              "cover": "tracks/Images/Encore_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Just Lose It",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/Encore/JustLoseIt.mp3"
+                },
+                "2": {
+                  "name": "My Mom",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/Encore/MyMom.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "☠ Kamikaze",
+              "cover": "tracks/Images/Kamikaze_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Lucky You",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/Kamikaze/LuckyYou.mp3"
+                }
+              }
+            },
+            "4": {
+              "name": "1️⃣ Last One Standing",
+              "cover": "tracks/Images/LastOneStanding_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Last One Standing",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/LastOneStanding/LastOneStanding.mp3"
+                }
+              }
+            },
+            "5": {
+              "name": "⚰ Music To Be Murdered By",
+              "cover": "tracks/Images/MusicToBeMurderedBy_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Godzilla",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/Godzilla.mp3"
+                },
+                "2": {
+                  "name": "Killer[Remix]",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/KillerRemix.mp3"
+                },
+                "3": {
+                  "name": "Leaving Heaven",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/LeavingHeaven.mp3"
+                },
+                "4": {
+                  "name": "No Regerets",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/NoRegrets.mp3"
+                },
+                "5": {
+                  "name": "Tone Deaf",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/ToneDeaf.mp3"
+                },
+                "6": {
+                  "name": "You Gon'Learn",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/MusicToBeMurderedBy/YouGonLearn.mp3"
+                }
+              }
+            },
+            "6": {
+              "name": "\uD83C\uDFAA The Eminem Show",
+              "cover": "tracks/Images/TheEminemShow_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Till I Collapse",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/TheEminemShow/TillICollapse.mp3"
+                },
+                "2": {
+                  "name": "Without Me",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/TheEminemShow/WithoutMe.mp3"
+                }
+              }
+            },
+            "7": {
+              "name": "\uD83D\uDCC0 The Marshall Mathers LP",
+              "cover": "tracks/Images/TheMarshallMattersLP_.jpg",
+              "songs": {
+                "1": {
+                  "name": "The Real Slim Shady",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/TheMarshallMathersLP/TheRealSlimShady.mp3"
+                },
+                "2": {
+                  "name": "Under The Influence",
+                  "src": "tracks/Remixes-Phonk-Rap/Eminem/TheMarshallMathersLP/UnderTheInfluence.mp3"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "photo": "tracks/Images/FreeFlowFlava_.jpg",
+          "name": "\uD83D\uDC32 Free Flow Flava",
+          "songs": {
+            "1": {
+              "name": "001",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/001.mp3"
+            },
+            "2": {
+              "name": "Final Round",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/FinalRound.mp3"
+            },
+            "3": {
+              "name": "JDM",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/JDM.mp3"
+            },
+            "4": {
+              "name": "Madara",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/Madara.mp3"
+            },
+            "5": {
+              "name": "Mantra",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/Mantra.mp3"
+            },
+            "6": {
+              "name": "Mistake",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/Mistake.mp3"
+            },
+            "7": {
+              "name": "No Gods",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/NoGods.mp3"
+            },
+           "8": {
+              "name": "Outlaw",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/Outlaw.mp3"
+            },
+            "9": {
+              "name": "Snake Style",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/SnakeStyle.mp3"
+            },
+            "10": {
+              "name": "Smoke",
+              "src": "tracks/Remixes-Phonk-Rap/FreeFlowFlava/Smoke.mp3"
+            }
+          }
+        },
+        "6": {
+          "name": "\uD83D\uDC7B Ghostface Playa",
+          "photo": "tracks/Images/GhostfacePlaya_.jpg",
+          "songs": {
+            "1": {
+              "name": "I Don't Give A Fuck",
+              "src": "tracks/Remixes-Phonk-Rap/GhostfacePlaya/IDontGiveAFuck.mp3"
+            },
+            "2": {
+              "name": "Why Not",
+              "src": "tracks/Remixes-Phonk-Rap/GhostfacePlaya/WhyNot.mp3"
+            }
+          }
+        },
+        "7": {
+          "name": "\uD83D\uDCEC Gorillaz",
+          "photo": "tracks/Images/Gorillaz_.jpg",
+          "songs": {
+            "1": {
+              "name": "Clint Eastwood",
+              "src": "tracks/Remixes-Phonk-Rap/Gorillaz/ClintEastwood.mp3"
+            },
+            "2": {
+              "name": "Feel Good Inc",
+              "src": "tracks/Remixes-Phonk-Rap/Gorillaz/FeelGoodInc.mp3"
+            }
+          }
+        },
+        "8": {
+          "name": "☎ Kavinsky",
+          "photo": "tracks/Images/Kavinsky_.jpg",
+          "songs": {
+            "1": {
+              "name": "Nightcall",
+              "src": "tracks/Remixes-Phonk-Rap/Kavinsky/Nightcall.mp3"
+            }
+          }
+        },
+        "9": {
+          "name": "\uD83C\uDF03 KimOneheart",
+          "photo": "tracks/Images/KimOneheart_.jpg",
+          "songs": {
+            "1": {
+              "name": "Nightexpress",
+              "src": "tracks/Remixes-Phonk-Rap/KimOneheart/Nightexpress.mp3"
+            }
+          }
+        },
+        "10": {
+          "name": "\uD83C\uDF0C Lidasky",
+          "photo": "tracks/Images/Otpuskayu_.jpg",
+          "songs": {
+            "1": {
+              "name": "Otpuskayu[Torn Remix]",
+              "src": "tracks/Remixes-Phonk-Rap/Lidasky/Otpuskau.mp3"
+            }
+          }
+        },
+        "11": {
+          "name": "✡ Mr.Kitty",
+          "photo": "tracks/Images/Mr.Kitty_.jpg",
+          "songs": {
+            "1": {
+              "name": "0% Angel",
+              "src": "tracks/Remixes-Phonk-Rap/Mr.Kitty/0% Angel.mp3"
+            },
+            "2": {
+              "name": "After Dark",
+              "src": "tracks/Remixes-Phonk-Rap/Mr.Kitty/AfterDark.mp3"
+            }
+          }
+        },
+        "12": {
+          "name": "\uD83D\uDDA5 Nero",
+          "photo": "tracks/Images/Nero_.jpg",
+          "songs": {
+            "1": {
+              "name": "Etude",
+              "src": "tracks/Remixes-Phonk-Rap/Nero/Etude.mp3"
+            }
+          }
+        },
+        "13": {
+          "name": "\uD83C\uDF36 Salt n Pepa",
+          "photo": "tracks/Images/SaltNPepa_.jpg",
+          "songs": {
+            "1": {
+              "name": "Shoop",
+              "src": "tracks/Remixes-Phonk-Rap/Salt n Pepa/Shoop.mp3"
+            },
+            "2": {
+              "name": "Whatta Man",
+              "src": "tracks/Remixes-Phonk-Rap/Salt n Pepa/WhattaMan.mp3"
+            }
+          }
+        },
+        "14": {
+          "name": "\uD83D\uDCAA Sigma Music",
+          "photo": "tracks/Images/Sigma_.jpg",
+          "songs": {
+            "1": {
+              "name": "Metamorphosis",
+              "src": "tracks/Remixes-Phonk-Rap/SigmaMusic/Metamorphosis.mp3"
+            },
+            "2": {
+              "name": "The Perfect Girl",
+              "src": "tracks/Remixes-Phonk-Rap/SigmaMusic/ThePerfectGirl.mp3"
+            }
+          }
+        },
+        "15": {
+          "name": "\uD83C\uDDEF\uD83C\uDDF5 Tokyomane",
+          "photo": "tracks/Images/Tokyomane_.jpg",
+          "songs": {
+            "1": {
+              "name": "Mall",
+              "src": "tracks/Remixes-Phonk-Rap/Tokyomane/Mall.mp3"
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "name": "\uD83E\uDD41 Rock",
+      "singers/groups": {
+        "1": {
+          "photo": "tracks/Images/ACDC_.jpg",
+          "name": "AC⚡DC",
+          "songs": {
+            "1": {
+              "name": "Back In Black",
+              "src": "tracks/Rock/ACDC/BackInBlack.mp3"
+            },
+            "2": {
+              "name": "Highway To Hell",
+              "src": "tracks/Rock/ACDC/HighwayToHell.mp3"
+            },
+            "3": {
+              "name": "Kick You When You're Down",
+              "src": "tracks/Rock/ACDC/KickYouWhenYoureDown.mp3"
+            },
+            "4": {
+              "name": "Thunderstruck",
+              "src": "tracks/Rock/ACDC/Thunderstruck.mp3"
+            },
+            "5": {
+              "name": "TNT",
+              "src": "tracks/Rock/ACDC/TNT.mp3"
+            }
+          }
+        },
+        "2": {
+          "name": "\uD83D\uDC7C Aerosmith",
+          "photo": "tracks/Images/Aerosmith_.jpg",
+          "songs": {
+            "1": {
+              "name": "Dream On",
+              "src": "tracks/Rock/Aerosmith/DreamOn.mp3"
+            }
+          }
+        },
+        "3": {
+          "name": "⬛ Black Sabbath - Ozzy Osbourn",
+          "photo": "tracks/Images/BlackSabbath_.jpg",
+          "songs": {
+            "1": {
+              "name": "Dreamer",
+              "src": "tracks/Rock/Black Sabbath - Ozzy Osbourn/Dreamer.mp3"
+            },
+            "2": {
+              "name": "Iron Man",
+              "src": "tracks/Rock/Black Sabbath - Ozzy Osbourn/IronMan.mp3"
+            },
+            "3": {
+              "name": "Paranoid",
+              "src": "tracks/Rock/Black Sabbath - Ozzy Osbourn/Paranoid.mp3"
+            }
+          }
+        },
+        "4": {
+          "name": "\uD83D\uDC8E Cinderella",
+          "photo": "tracks/Images/Cinderella_.jpg",
+          "songs": {
+            "1": {
+              "name": "Don't Know What You Got",
+              "src": "tracks/Rock/Cinderella/DontKnowWhatYouGotTillItsGone.mp3"
+            },
+            "2": {
+              "name": "Nobody's Fool",
+              "src": "tracks/Rock/Cinderella/NobodysFool.mp3"
+            },
+            "3": {
+              "name": "Shake Me",
+              "src": "tracks/Rock/Cinderella/ShakeMe.mp3"
+            }
+          }
+        },
+        "5": {
+          "name": "\uD83D\uDD76 Depeche Mode",
+          "photo": "tracks/Images/DepecheMode_.jpg",
+          "songs": {
+            "1": {
+              "name": "Broken",
+              "src": "tracks/Rock/Depeche Mode/Broken.mp3"
+            },
+            "2": {
+              "name": "Enjoy The Silence",
+              "src": "tracks/Rock/Depeche Mode/EnjoyTheSilence.mp3"
+            },
+            "3": {
+              "name": "Going Backwards",
+              "src": "tracks/Rock/Depeche Mode/GoingBackwards.mp3"
+            },
+            "4": {
+              "name": "I Feel You",
+              "src": "tracks/Rock/Depeche Mode/IFeelYou.mp3"
+            },
+            "5": {
+              "name": "In Your Room",
+              "src": "tracks/Rock/Depeche Mode/InYourRoom.mp3"
+            },
+            "6": {
+              "name": "Personal Jesus",
+              "src": "tracks/Rock/Depeche Mode/PersonalJesus.mp3"
+            },
+            "7": {
+              "name": "Walking In My Shoes",
+              "src": "tracks/Rock/Depeche Mode/WalkingInMyShoes.mp3"
+            }
+          }
+        },
+        "6": {
+          "name": "\uD83C\uDFDD Elvis Presley",
+          "photo": "tracks/Images/ElvisPresley_.jpg",
+          "songs": {
+            "1": {
+              "name": "Jailhouse Rock",
+              "src": "tracks/Rock/Elvis Presley/JailhouseRock.mp3"
+            }
+          }
+        },
+        "7": {
+          "name": "\uD83C\uDFBA Europe",
+          "photo": "tracks/Images/Europe_.jpg",
+          "songs": {
+            "1": {
+              "name": "Rock The Night",
+              "src": "tracks/Rock/Europe/RockTheNight.mp3"
+            },
+            "2": {
+              "name": "The Final Countdown",
+              "src": "tracks/Rock/Europe/TheFinalCountdown.mp3"
+            }
+          }
+        },
+        "8": {
+          "name": "⛓ Гражданская Оборона",
+          "photo": "tracks/Images/EgorLetov_.webp",
+          "songs": {
+            "1": {
+              "name": "Русское Поле Экспериментов",
+              "src": "tracks/Rock/GroB/RussPoleEksp.mp3"
+            }
+          }
+        },
+        "9": {
+          "name": "\uD83C\uDF39 Guns n' Roses",
+          "photo": "tracks/Images/GunsNRoses_.jpg",
+          "songs": {
+            "1": {
+              "name": "Don't Cry",
+              "src": "tracks/Rock/Guns n Roses/DontCry.mp3"
+            },
+            "2": {
+              "name": "Hard School",
+              "src": "tracks/Rock/Guns n Roses/HardSkool.mp3"
+            },
+            "3": {
+              "name": "Mr Brownstone",
+              "src": "tracks/Rock/Guns n Roses/MrBrownstone.mp3"
+            },
+            "4": {
+              "name": "Paradise City",
+              "src": "tracks/Rock/Guns n Roses/ParadiseCity.mp3"
+            },
+            "5": {
+              "name": "Sweet Child O'Mine",
+              "src": "tracks/Rock/Guns n Roses/SweetChildOMine.mp3"
+            },
+            "6": {
+              "name": "This I Love",
+              "src": "tracks/Rock/Guns n Roses/ThisILove.mp3"
+            },
+            "7": {
+              "name": "Welcome To The Jungle",
+              "src": "tracks/Rock/Guns n Roses/WelcomeToTheJungle.mp3"
+            },
+            "8": {
+              "name": "You Could Be Mine",
+              "src": "tracks/Rock/Guns n Roses/YouCouldBeMine.mp3"
+            }
+          }
+        },
+        "10": {
+          "photo": "tracks/Images/Kino_.jpg",
+          "name": "\uD83D\uDCFD Кино",
+          "albums": {
+            "1": {
+              "name": "⚫ Чёрный Альбом",
+              "cover": "tracks/Images/ChornyAlbum_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Когда Твоя Девушка Больна",
+                  "src": "tracks/Rock/Kino/ChornyAlbum/KogdaTvoyaDevushkaBolna.mp3"
+                },
+                "2": {
+                  "name": "Кончится Лето",
+                  "src": "tracks/Rock/Kino/ChornyAlbum/KonchitsyaLeto.mp3"
+                },
+                "3": {
+                  "name": "Красно-Жёлтые Дни",
+                  "src": "tracks/Rock/Kino/ChornyAlbum/KrasnoZheltieDni.mp3"
+                },
+                "4": {
+                  "name": "Кукушка",
+                  "src": "tracks/Rock/Kino/ChornyAlbum/Kukushka.mp3"
+                },
+                "5": {
+                  "name": "Нам С Тобой",
+                  "src": "tracks/Rock/Kino/ChornyAlbum/NamSToboy.mp3"
+                }
+              }
+            },
+            "2": {
+              "name": "\uD83E\uDE78 Группа Крови",
+              "cover": "tracks/Images/GruppaKrovi_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Группа Крови",
+                  "src": "tracks/Rock/Kino/GruppaKrovi/GruppaKrovi.mp3"
+                },
+                "2": {
+                  "name": "Перемен",
+                  "src": "tracks/Rock/Kino/GruppaKrovi/PeremenTrebuyutNashiSerdtsa.mp3"
+                },
+                "3": {
+                  "name": "В Наших Глазах",
+                  "src": "tracks/Rock/Kino/GruppaKrovi/VNashikhGlazakh.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "☀ Звезда По Имени Солнце",
+              "cover": "tracks/Images/ZvezdaPoImeniSolnce_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Пачка Сигарет",
+                  "src": "tracks/Rock/Kino/ZvezdaPoImenSolnze/PachkaSigaret.mp3"
+                },
+                "2": {
+                  "name": "Песня Без Слов",
+                  "src": "tracks/Rock/Kino/ZvezdaPoImenSolnze/PesnyaBezSlov.mp3"
+                },
+                "3": {
+                  "name": "Сказка",
+                  "src": "tracks/Rock/Kino/ZvezdaPoImenSolnze/Skazka.mp3"
+                },
+                "4": {
+                  "name": "Стук",
+                  "src": "tracks/Rock/Kino/ZvezdaPoImenSolnze/Stuk.mp3"
+                },
+                "5": {
+                  "name": "Звезда По Имени Солнце",
+                  "src": "tracks/Rock/Kino/ZvezdaPoImenSolnze/ZvezdaPoImenSolnze.mp3"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "name": "\uD83D\uDC8B Kiss",
+          "photo": "tracks/Images/Kiss_.jpg",
+          "songs": {
+            "1": {
+              "name": "Heavens on Fire",
+              "src": "tracks/Rock/Kiss/HeavensOnFire.mp3"
+            },
+            "2": {
+              "name": "I Love It Loud",
+              "src": "tracks/Rock/Kiss/ILoveItLoud.mp3"
+            },
+            "3": {
+              "name": "I Was Made For Loving You",
+              "src": "tracks/Rock/Kiss/IWasMadeForLovinYou.mp3"
+            }
+          }
+        },
+        "12": {
+          "name": "\uD83C\uDCCF Король И Шут",
+          "photo": "tracks/Images/KorolIShut_.png",
+          "songs": {
+            "1": {
+              "name": "Кукла Колдуна",
+              "src": "tracks/Rock/Korol i Shut/KuklaKolduna.mp3"
+            }
+          }
+        },
+        "13": {
+          "name": "\uD83E\uDD20 Led Zeppelin",
+          "photo": "tracks/Images/LedZeppelin_.jpg",
+          "songs": {
+            "1": {
+              "name": "Immigrant Song",
+              "src": "tracks/Rock/Led Zeppellin/ImmigrantSong.mp3"
+            }
+          }
+        },
+        "14": {
+          "name": "\uD83E\uDDDF\u200D♂ Marilyn Manson",
+          "photo": "tracks/Images/MarilynManson_.jpg",
+          "songs": {
+            "1": {
+              "name": "Personal Jesus",
+              "src": "tracks/Rock/Marilyn Manson/PersonalJesus.mp3"
+            },
+            "2": {
+              "name": "The Beautiful People",
+              "src": "tracks/Rock/Marilyn Manson/TheBeautifulPeople.mp3"
+            }
+          }
+        },
+        "15": {
+          "photo": "tracks/Images/Metallica_.png",
+          "name": "\uD83D\uDC80 Metallica",
+          "albums": {
+            "1": {
+              "name": "\uD83D\uDECF 72 Seasons",
+              "cover": "tracks/Images/72Seasons_.png",
+              "songs": {
+                "1": {
+                  "name": "72 Seasons",
+                  "src": "tracks/Rock/Metallica/72Seasons/72Seasons.mp3"
+                },
+                "2": {
+                  "name": "Chasing Light",
+                  "src": "tracks/Rock/Metallica/72Seasons/ChasingLight.mp3"
+                },
+                "3": {
+                  "name": "Crown Of Barbed Wire",
+                  "src": "tracks/Rock/Metallica/72Seasons/CrownOfBarbedWire.mp3"
+                },
+                "4": {
+                  "name": "If Darkness Had A Son",
+                  "src": "tracks/Rock/Metallica/72Seasons/IfDarknessHadASon.mp3"
+                },
+                "5": {
+                  "name": "Inamorata",
+                  "src": "tracks/Rock/Metallica/72Seasons/Inamorata.mp3"
+                },
+                "6": {
+                  "name": "Lux Aeterna",
+                  "src": "tracks/Rock/Metallica/72Seasons/Lux Aeterna.mp3"
+                },
+                "7": {
+                  "name": "Room Of Mirrors",
+                  "src": "tracks/Rock/Metallica/72Seasons/RoomOfMirrors.mp3"
+                },
+                "8": {
+                  "name": "Shadows Follow",
+                  "src": "tracks/Rock/Metallica/72Seasons/ShadowsFollow.mp3"
+                },
+                "9": {
+                  "name": "Sleepwalk My Life Away",
+                  "src": "tracks/Rock/Metallica/72Seasons/SleepwalkMyLifeAway.mp3"
+                },
+                "10": {
+                  "name": "Too Far Gone",
+                  "src": "tracks/Rock/Metallica/72Seasons/TooFarGone.mp3"
+                },
+                "11": {
+                  "name": "You Must Burn!",
+                  "src": "tracks/Rock/Metallica/72Seasons/YouMustBurn!.mp3"
+                }
+              }
+            },
+            "2": {
+              "name": "⚖\uD83D\uDDE1 And Justice For All",
+              "cover": "tracks/Images/AndJusticeForAll_.jpg",
+              "songs": {
+                "1": {
+                  "name": "...And Justice For All",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/AndJusticeForAll.mp3"
+                },
+                "2": {
+                  "name": "Blackened",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/Blackened.mp3"
+                },
+                "3": {
+                  "name": "Eye Of The Beholder",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/EyeOfTheBeholder.mp3"
+                },
+                "4": {
+                  "name": "Harvester Of Sorrow",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/HarvesterOfSorrow.mp3"
+                },
+                "5": {
+                  "name": "One",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/One.mp3"
+                },
+                "6": {
+                  "name": "The Frayed Ends Of Sanity",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/TheFrayedEndsOfSanity.mp3"
+                },
+                "7": {
+                  "name": "The Shortest Straw",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/TheShortestStraw.mp3"
+                },
+                "8": {
+                  "name": "To Live Is To Die",
+                  "src": "tracks/Rock/Metallica/AndJusticeForAll/ToLiveIsToDie.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "\uD83C\uDFE0 Garage Inc.",
+              "cover": "tracks/Images/GarageInc_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Turn The Page",
+                  "src": "tracks/Rock/Metallica/GarageInc/TurnThePage.mp3"
+                },
+                "2": {
+                  "name": "Whiskey In The Jar",
+                  "src": "tracks/Rock/Metallica/GarageInc/WhiskeyInTheJar.mp3"
+                }
+              }
+            },
+            "4": {
+              "name": "\uD83D\uDD25 Hardwired To Self Destruct",
+              "cover": "tracks/Images/HardwiredToSelfDestruct_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Moth Into Flame",
+                  "src": "tracks/Rock/Metallica/HardwiredToSelfDestruct/MothIntoFlame.mp3"
+                }
+              }
+            },
+            "5": {
+              "name": "\uD83D\uDD28 Kill 'Em All \uD83E\uDE78",
+              "cover": "tracks/Images/KillEmAll_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Hit The Lights",
+                  "src": "tracks/Rock/Metallica/KillEmAll/HitTheLights.mp3"
+                },
+                "2": {
+                  "name": "Seek & Destroy",
+                  "src": "tracks/Rock/Metallica/KillEmAll/SeekDestroy.mp3"
+                }
+              }
+            },
+            "6": {
+              "name": "\uD83D\uDCBE Load",
+              "cover": "tracks/Images/Load_.jpg",
+              "songs": {
+                "1": {
+                  "name": "2x4",
+                  "src": "tracks/Rock/Metallica/Load/2x4.mp3"
+                }
+              }
+            },
+            "7": {
+              "name": "\uD83C\uDFAD Master Of Puppets",
+              "cover": "tracks/Images/MasterOfPuppets_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Battery",
+                  "src": "tracks/Rock/Metallica/MasterOfPuppets/Battery.mp3"
+                },
+                "2": {
+                  "name": "Master Of Puppets",
+                  "src": "tracks/Rock/Metallica/MasterOfPuppets/MasterOfPuppets.mp3"
+                },
+                "3": {
+                  "name": "Orion",
+                  "src": "tracks/Rock/Metallica/MasterOfPuppets/Orion.mp3"
+                },
+                "4": {
+                  "name": "The Thing That Should Not Be",
+                  "src": "tracks/Rock/Metallica/MasterOfPuppets/TheThingThatShouldNotBe.mp3"
+                }
+              }
+            },
+            "8": {
+              "name": "\uD83D\uDE08 Reload",
+              "cover": "tracks/Images/Reload_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Devil's Dance",
+                  "src": "tracks/Rock/Metallica/Reload/DevilsDance.mp3"
+                },
+                "2": {
+                  "name": "Fuel",
+                  "src": "tracks/Rock/Metallica/Reload/Fuel.mp3"
+                }
+              }
+            },
+            "9": {
+              "name": "\uD83D\uDD31 Ride The Lightning",
+              "cover": "tracks/Images/RideTheLightning_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Creeping Death",
+                  "src": "tracks/Rock/Metallica/RideTheLightning/CreepingDeath.mp3"
+                },
+                "2": {
+                  "name": "Fade To Black",
+                  "src": "tracks/Rock/Metallica/RideTheLightning/FadeToBlack.mp3"
+                },
+                "3": {
+                  "name": "For Whom The Bell Tolls",
+                  "src": "tracks/Rock/Metallica/RideTheLightning/ForWhomTheBellTolls.mp3"
+                },
+                "4": {
+                  "name": "Ride The Lightning",
+                  "src": "tracks/Rock/Metallica/RideTheLightning/RideTheLightning.mp3"
+                },
+                "5": {
+                  "name": "The Call Of Ktulu",
+                  "src": "tracks/Rock/Metallica/RideTheLightning/TheCallOfKtulu.mp3"
+                }
+              }
+            },
+            "10": {
+              "name": "\uD83D\uDC79 St.Anger",
+              "cover": "tracks/Images/St.Anger_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Dirty Window",
+                  "src": "tracks/Rock/Metallica/St.Anger/DirtyWindow.mp3"
+                },
+                "2": {
+                  "name": "Some Kind Of Monster",
+                  "src": "tracks/Rock/Metallica/St.Anger/SomeKindOfMoster.mp3"
+                }
+              }
+            },
+            "11": {
+              "name": "\uD83D\uDC0D The Black Album",
+              "cover": "tracks/Images/TheBlackAlbum_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Enter Sandman",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/EnterSandman.mp3"
+                },
+                "2": {
+                  "name": "Nothing Else Matters",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/NothingElseMatters.mp3"
+                },
+                "3": {
+                  "name": "Sad But True",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/SadButTrue.mp3"
+                },
+                "4": {
+                  "name": "The God That Failed",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/TheGodThatFailed.mp3"
+                },
+                "5": {
+                  "name": "The Unforgiven",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/TheUnforgiven.mp3"
+                },
+                "6": {
+                  "name": "Wherever I May Roam",
+                  "src": "tracks/Rock/Metallica/TheBlackAlbum/WhereverIMayRoam.mp3"
+                }
+              }
+            }
+          }
+        },
+        "16": {
+          "name": "\uD83D\uDC7D Muse",
+          "photo": "tracks/Images/Muse_.jpg",
+          "songs": {
+            "1": {
+              "name": "Feeling Good",
+              "src": "tracks/Rock/Muse/FeelingGood.mp3"
+            },
+            "2": {
+              "name": "Hysteria",
+              "src": "tracks/Rock/Muse/Hysteria.mp3"
+            },
+            "3": {
+              "name": "Plug In Baby",
+              "src": "tracks/Rock/Muse/PlugInBaby.mp3"
+            },
+            "4": {
+              "name": "Psycho",
+              "src": "tracks/Rock/Muse/Psycho.mp3"
+            },
+            "5": {
+              "name": "Resistance",
+              "src": "tracks/Rock/Muse/Resistance.mp3"
+            },
+            "6": {
+              "name": "Supermassive Black Hole",
+              "src": "tracks/Rock/Muse/SupermassiveBlackHole.mp3"
+            },
+            "7": {
+              "name": "Thought Contagion",
+              "src": "tracks/Rock/Muse/ThoughtContagion.mp3"
+            },
+            "8": {
+              "name": "Time Is Running Out",
+              "src": "tracks/Rock/Muse/TimeIsRunningOut.mp3"
+            },
+            "9": {
+              "name": "Undisclosed Desire",
+              "src": "tracks/Rock/Muse/UndisclosedDesire.mp3"
+            },
+            "10": {
+              "name": "Uprising",
+              "src": "tracks/Rock/Muse/Uprising.mp3"
+            }
+          }
+        },
+        "17": {
+          "photo": "tracks/Images/Nirvana_.jpg",
+          "name": "\uD83C\uDFB8 Nirvana",
+          "albums": {
+            "1": {
+              "name": "\uD83C\uDFEB Bleach",
+              "cover": "tracks/Images/Bleach_.jpg",
+              "songs": {
+                "1": {
+                  "name": "School",
+                  "src": "tracks/Rock/Nirvana/Bleach/School.mp3"
+                }
+              }
+            },
+            "2": {
+              "name": "\uD83D\uDE36 Incesticide",
+              "cover": "tracks/Images/Incesticide_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Aneurysm",
+                  "src": "tracks/Rock/Nirvana/Incesticide/Aneurysm.mp3"
+                },
+                "2": {
+                  "name": "Sliver",
+                  "src": "tracks/Rock/Nirvana/Incesticide/Sliver.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "\uD83C\uDF2A In Utero",
+              "cover": "tracks/Images/InUtero_.jpg",
+              "songs": {
+                "1": {
+                  "name": "All Apologies",
+                  "src": "tracks/Rock/Nirvana/InUtero/AllApologies.mp3"
+                },
+                "2": {
+                  "name": "Heart Shaped Box",
+                  "src": "tracks/Rock/Nirvana/InUtero/HeartShapedBox.mp3"
+                },
+                "3": {
+                  "name": "Rape Me",
+                  "src": "tracks/Rock/Nirvana/InUtero/RapeMe.mp3"
+                },
+                "4": {
+                  "name": "Scentless Apprentice",
+                  "src": "tracks/Rock/Nirvana/InUtero/ScentlessApprentice.mp3"
+                },
+                "5": {
+                  "name": "Serve The Servants",
+                  "src": "tracks/Rock/Nirvana/InUtero/ServeTheServants.mp3"
+                }
+              }
+            },
+            "4": {
+              "name": "\uD83D\uDC76 Nevermind \uD83C\uDF0A",
+              "cover": "tracks/Images/Nevermind_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Breed",
+                  "src": "tracks/Rock/Nirvana/Nevermind/Breed.mp3"
+                },
+                "2": {
+                  "name": "Come As You Are",
+                  "src": "tracks/Rock/Nirvana/Nevermind/ComeAsYouAre.mp3"
+                },
+                "3": {
+                  "name": "Drain You",
+                  "src": "tracks/Rock/Nirvana/Nevermind/DrainYou.mp3"
+                },
+                "4": {
+                  "name": "In Bloom",
+                  "src": "tracks/Rock/Nirvana/Nevermind/InBloom.mp3"
+                },
+                "5": {
+                  "name": "Lithium",
+                  "src": "tracks/Rock/Nirvana/Nevermind/Lithium.mp3"
+                },
+                "6": {
+                  "name": "Lounge Act",
+                  "src": "tracks/Rock/Nirvana/Nevermind/LoungeAct.mp3"
+                },
+                "7": {
+                  "name": "On A Plain",
+                  "src": "tracks/Rock/Nirvana/Nevermind/OnAPlain.mp3"
+                },
+                "8": {
+                  "name": "Smells Like Teen Spirit",
+                  "src": "tracks/Rock/Nirvana/Nevermind/SmellsLikeTeenSpirit (1).mp3"
+                },
+                "9": {
+                  "name": "Territorial Pissings",
+                  "src": "tracks/Rock/Nirvana/Nevermind/TerritorialPissings.mp3"
+                }
+              }
+            },
+            "5": {
+              "name": "\uD83E\uDD43 Unplugged",
+              "cover": "tracks/Images/Unplugged_.png",
+              "songs": {
+                "1": {
+                  "name": "About A Girl",
+                  "src": "tracks/Rock/Nirvana/Unplugged/AboutAGirl.mp3"
+                },
+                "2": {
+                  "name": "Dumb",
+                  "src": "tracks/Rock/Nirvana/Unplugged/Dumb.mp3"
+                },
+                "3": {
+                  "name": "Jesus Doesn't Want Me For A Sunbeam",
+                  "src": "tracks/Rock/Nirvana/Unplugged/JesusDoesntWantMeForASunbeam.mp3"
+                },
+                "4": {
+                  "name": "Lake Of Fire",
+                  "src": "tracks/Rock/Nirvana/Unplugged/LakeOfFire.mp3"
+                },
+                "5": {
+                  "name": "Pennyroyal Tea",
+                  "src": "tracks/Rock/Nirvana/Unplugged/PennyroyalTea.mp3"
+                },
+                "6": {
+                  "name": "Plateau",
+                  "src": "tracks/Rock/Nirvana/Unplugged/Plateau.mp3"
+                },
+                "7": {
+                  "name": "Polly",
+                  "src": "tracks/Rock/Nirvana/Unplugged/Polly.mp3"
+                },
+                "8": {
+                  "name": "Something In The Way",
+                  "src": "tracks/Rock/Nirvana/Unplugged/SomethingInTheWay.mp3"
+                },
+                "9": {
+                  "name": "The Man Who Sold The World",
+                  "src": "tracks/Rock/Nirvana/Unplugged/TheManWhoSoldTheWorld.mp3"
+                },
+                "10": {
+                  "name": "Where Did You Sleep Last Night",
+                  "src": "tracks/Rock/Nirvana/Unplugged/WhereDidYouSleepLastNight.mp3"
+                }
+              }
+            }
+          }
+        },
+        "18": {
+          "name": "\uD83D\uDCA3 Pantera",
+          "photo": "tracks/Images/Pantera_.jpg",
+          "songs": {
+            "1": {
+              "name": "A New Level",
+              "src": "tracks/Rock/Pantera/ANewLevel.mp3"
+            },
+            "2": {
+              "name": "Cowboys From Hell",
+              "src": "tracks/Rock/Pantera/CowboysFromHell.mp3"
+            },
+            "3": {
+              "name": "Domination",
+              "src": "tracks/Rock/Pantera/Domination.mp3"
+            },
+            "4": {
+              "name": "Hollow",
+              "src": "tracks/Rock/Pantera/Hollow.mp3"
+            },
+            "5": {
+              "name": "I'm Broken",
+              "src": "tracks/Rock/Pantera/ImBroken.mp3"
+            },
+            "6": {
+              "name": "This Love",
+              "src": "tracks/Rock/Pantera/ThisLove.mp3"
+            }
+          }
+        },
+        "19": {
+          "name": "\uD83C\uDF08 Pink Floyd",
+          "photo": "tracks/Images/PinkFloyd_.jpg",
+          "songs": {
+            "1": {
+              "name": "Another Brick In The Wall",
+              "src": "tracks/Rock/Pink Floyd/AnotherBrickInTheWall.mp3"
+            },
+            "2": {
+              "name": "Hey You",
+              "src": "tracks/Rock/Pink Floyd/HeyYou.mp3"
+            }
+          }
+        },
+        "20": {
+          "name": "\uD83D\uDD6F R.E.M",
+          "photo": "tracks/Images/R.E.M_.jpg",
+          "songs": {
+            "1": {
+              "name": "Drive",
+              "src": "tracks/Rock/R.E.M/Drive.mp3"
+            },
+            "2": {
+              "name": "Everybody Hurts",
+              "src": "tracks/Rock/R.E.M/EverybodyHurts.mp3"
+            },
+            "3": {
+              "name": "Losing My Religion",
+              "src": "tracks/Rock/R.E.M/LosingMyReligion.mp3"
+            }
+          }
+        },
+        "21": {
+          "photo": "tracks/Images/Rammstein.jpg",
+          "name": "\uD83E\uDD2F Rammstein",
+          "albums": {
+            "1": {
+              "name": "\uD83D\uDDA4 Liebe Ist Fur Alle Da",
+              "cover": "tracks/Images/LiebeIstFurAlleDa_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Wiener Blut",
+                  "src": "tracks/Rock/Rammstein/LiebeIstFurAlleDa/WienerBlut.mp3"
+                }
+              }
+            },
+            "2": {
+              "name": "\uD83E\uDD30 Mutter",
+              "cover": "tracks/Images/Mutter_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Feuer Frei",
+                  "src": "tracks/Rock/Rammstein/Mutter/FeuerFrei.mp3"
+                },
+                "2": {
+                  "name": "Ich Will",
+                  "src": "tracks/Rock/Rammstein/Mutter/IchWill.mp3"
+                },
+                "3": {
+                  "name": "Mein Herz Brennt",
+                  "src": "tracks/Rock/Rammstein/Mutter/MeinHerzBrennt.mp3"
+                },
+                "4": {
+                  "name": "Mutter",
+                  "src": "tracks/Rock/Rammstein/Mutter/Mutter.mp3"
+                },
+                "5": {
+                  "name": "Sonne",
+                  "src": "tracks/Rock/Rammstein/Mutter/Sonne.mp3"
+                }
+              }
+            },
+            "3": {
+              "name": "\uD83D\uDEAC Rammstein",
+              "cover": "tracks/Images/Rammstein_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Deutschland",
+                  "src": "tracks/Rock/Rammstein/Rammstein/Deutschland.mp3"
+                }
+              }
+            },
+            "4": {
+              "name": "\uD83E\uDD69 Reise Reise",
+              "cover": "tracks/Images/ReiseReise_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Amerika",
+                  "src": "tracks/Rock/Rammstein/Reise Reise/Amerika.mp3"
+                },
+                "2": {
+                  "name": "Keine Lust",
+                  "src": "tracks/Rock/Rammstein/Reise Reise/KeineLust.mp3"
+                },
+                "3": {
+                  "name": "Mein Teil",
+                  "src": "tracks/Rock/Rammstein/Reise Reise/MeinTeil.mp3"
+                }
+              }
+            },
+            "5": {
+              "name": "\uD83E\uDD40 Rosenrot",
+              "cover": "tracks/Images/Rosenrot_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Benzin",
+                  "src": "tracks/Rock/Rammstein/Rosenrot/Benzin.mp3"
+                },
+                "2": {
+                  "name": "Mann Gegen Mann",
+                  "src": "tracks/Rock/Rammstein/Rosenrot/MannGegenMann.mp3"
+                },
+                "3": {
+                  "name": "Rosenrot",
+                  "src": "tracks/Rock/Rammstein/Rosenrot/Rosenrot.mp3"
+                }
+              }
+            },
+            "6": {
+              "name": "\uD83C\uDF21 Sensucht",
+              "cover": "tracks/Images/Sensucht_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Du Hast",
+                  "src": "tracks/Rock/Rammstein/Sensucht/DuHast.mp3"
+                },
+                "2": {
+                  "name": "Engel",
+                  "src": "tracks/Rock/Rammstein/Sensucht/Engel.mp3"
+                }
+              }
+            },
+            "7": {
+              "name": "\uD83D\uDD54 Zeit",
+              "cover": "tracks/Images/Zeit_.jpg",
+              "songs": {
+                "1": {
+                  "name": "Angst",
+                  "src": "tracks/Rock/Rammstein/Zeit/Angst.mp3"
+                }
+              }
+            }
+          }
+        },
+        "22": {
+          "name": "\uD83D\uDC7F Slipknot",
+          "photo": "tracks/Images/Slipknot_.jpg",
+          "songs": {
+            "1": {
+              "name": "Before I Forget",
+              "src": "tracks/Rock/Slipknot/BeforeIForget.mp3"
+            },
+            "2": {
+              "name": "Duality",
+              "src": "tracks/Rock/Slipknot/Duality.mp3"
+            },
+            "3": {
+              "name": "People=Shit",
+              "src": "tracks/Rock/Slipknot/PeopleShit.mp3"
+            },
+            "4": {
+              "name": "Psychosocial",
+              "src": "tracks/Rock/Slipknot/Psychosocial.mp3"
+            },
+            "5": {
+              "name": "The Devil In I",
+              "src": "tracks/Rock/Slipknot/TheDevilInI.mp3"
+            }
+          }
+        },
+        "23": {
+          "name": "\uD83E\uDD1F Span",
+          "photo": "tracks/Images/MassDistraction_.jpg",
+          "songs": {
+            "1": {
+              "name": "Found",
+              "src": "tracks/Rock/Span/Found.mp3"
+            }
+          }
+        },
+        "24": {
+          "name": "⚔ Survivor",
+          "photo": "tracks/Images/Survivor_.jpg",
+          "songs": {
+            "1": {
+              "name": "Eye Of The Tiger",
+              "src": "tracks/Rock/Survivor/EyeOfTheTiger.mp3"
+            },
+            "2": {
+              "name": "I Can't Hold Back",
+              "src": "tracks/Rock/Survivor/ICantHoldBack.mp3"
+            }
+          }
+        },
+        "25": {
+          "name": "☔ The Doors",
+          "photo": "tracks/Images/TheDoors_.jpg",
+          "songs": {
+            "1": {
+              "name": "Light My Fire",
+              "src": "tracks/Rock/The Doors/LightMyFire.mp3"
+            },
+            "2": {
+              "name": "People Are Strange",
+              "src": "tracks/Rock/The Doors/PeopleAreStrange.mp3"
+            },
+            "3": {
+              "name": "Riders On The Storm",
+              "src": "tracks/Rock/The Doors/RidersOnTheStorm.mp3"
+            }
+          }
+        },
+        "26": {
+          "name": "\uD83D\uDD0E The Handsome Family",
+          "photo": "tracks/Images/OstTrueDetective_.jpg",
+          "songs": {
+            "1": {
+              "name": "Far From Any Road",
+              "src": "tracks/Rock/The Handsome Family/FarFromAnyRoad.mp3"
+            }
+          }
+        },
+        "27": {
+          "name": "\uD83D\uDCF8 U2",
+          "photo": "tracks/Images/U2_.jpg",
+          "songs": {
+            "1": {
+              "name": "California",
+              "src": "tracks/Rock/U2/California.mp3"
+            },
+            "2": {
+              "name": "Cedarwood Road",
+              "src": "tracks/Rock/U2/CedarwoodRoad.mp3"
+            },
+            "3": {
+              "name": "One",
+              "src": "tracks/Rock/U2/One.mp3"
+            },
+            "4": {
+              "name": "Raised By Wolves",
+              "src": "tracks/Rock/U2/RaisedByWolves.mp3"
+            },
+            "5": {
+              "name": "This Is Where You Can Reach Me Now",
+              "src": "tracks/Rock/U2/ThisIsWhereYouCanReachMeNow.mp3"
+            },
+            "6": {
+              "name": "Volcano",
+              "src": "tracks/Rock/U2/Volcano.mp3"
             }
           }
         }
@@ -31,3 +1621,4 @@
     }
   }
 }
+
